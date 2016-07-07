@@ -19,8 +19,7 @@ Using public datasets to find correlations between violence and economic turmoil
 	#### Dependencies
 	You can find the data here:
 	
-	https://www.iraqbodycount.org/database/download/ibc-incidents
-	https://www.iraqbodycount.org/database/download/ibc-individuals
+	https://www.iraqbodycount.org/
 
 	Spark Driver for Postgres:
 	
